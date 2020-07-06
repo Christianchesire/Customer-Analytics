@@ -10,7 +10,6 @@ marketing mix with factors considered such as:
 3.Purchase quantity 
 
 This factors in price elasticity and cross-price elasticity
-    E = %Change in economic outcome of interest(units sold)
-         -------------------------------------------------
+    E = %Change in economic outcome of interest(units sold)/
                       %Change in price
 E = Y%/P%
